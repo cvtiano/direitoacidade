@@ -338,3 +338,24 @@ height: 100%;
 .space-video{
   margin-bottom: 5px;
 }
+
+.myButton {
+  background: rgb(83, 41, 235);
+  color: white;
+  border-radius: 15px;
+  margin-top: 5px;
+  font-size: 18px;
+}
+
+.mainInput {
+  width: 200px;
+}
+.emoji {
+  font-size: 32px;
+}
+
+.chooseButton {
+  background: rgb(236, 121, 247);
+  border-radius: 15px;
+  margin: 5px auto;
+}
